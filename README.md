@@ -13,7 +13,7 @@
 
 <p align="justify">Here you can find the schedule of classes followed by the teachers of API (Algorithmic and Programming I, 2022-2023) related to programming theory (Python and C++), with special focus on data structures. In addition, there are presentation slides elaborated to support the coding theory that involve the matter taught in this subject.</p>
 
-[https://github.com/lluc-palou/ap1-class-codes] (schedule and lessons)
+[https://github.com/lluc-palou/ap1-coding-theory] (schedule and lessons)
 
 [https://www.cs.upc.edu/~jordicf/Teaching/FME/Informatica/index.html] (support slides)
 
@@ -22,7 +22,7 @@
 
 <p align="justify">Here you can find the codes proposed in class that are used to show the theory implementation, moreover, they illustrate how basic data structures are defined, initialized and used to solve simple problems that later on can be pieces of a large puzzle.</p>
 
-[https://github.com/lluc-palou/ap1-coding-theory]
+[https://github.com/lluc-palou/ap1-class-codes]
 
 
 ## Complementary repositories
